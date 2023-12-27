@@ -1,13 +1,11 @@
-### 👋 Hello there! I'm [Your Name]
+### 👋 Hello there! I'm Vansh Angaria
 
 - 🤖 Machine Learning Engineer | 📊 Data Analyst
 - 🌐 Turning data into insights and models into solutions
 - 💡 Passionate about leveraging AI to solve real-world problems
 - 📈 Proficient in data analysis, statistical modeling, and machine learning
-- 🎓 Graduated with a degree in [Your Degree] from [Your University]
-- 💻 Currently exploring [Current Area of Interest] in ML/DL
-- 🚀 Actively contributing to open-source projects and learning communities
-- 🔍 Experienced in [List Key Data Analysis Tools] for exploratory data analysis
+- 🎓 Pursuing BTech in Computer Science Engineering from Indian Institute of Information Technology Kurnool
+- 💻 Currently exploring ML/DL
 
 ### 💼 Technical Skills
 
