@@ -9,7 +9,7 @@
 
 ### 💼 Technical Skills
 
-- 🐍 Programming: Python | R
+- 🐍 Programming: Python | C++
 - 🤖 Machine Learning: Scikit-Learn | TensorFlow | PyTorch
 - 📊 Data Analysis: Pandas | NumPy | Matplotlib | Seaborn
 - 📉 Statistical Analysis: Hypothesis Testing | Regression Analysis
