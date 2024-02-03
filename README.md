@@ -4,7 +4,7 @@ I'm a passionate data enthusiast, currently pursuing Btech from - **Indian Insti
 
 ## 🌱 Skills
 
-- **SQL Databases:** PostgreSQL, MySQL, OracleSQL .
+-- **SQL Databases:** PostgreSQL, MySQL, OracleSQL .
 - **Python Libraries:** Pandas, Numpy, Scikit-learn, Matplotlib, Plotly, Seaborn
 - **Data Visualization:** Tableau, Power BI .
 - **Other Skills:** Advance Excel (VLOOKUP, Pivot tables, etc.)
