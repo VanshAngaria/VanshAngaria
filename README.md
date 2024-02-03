@@ -13,8 +13,8 @@ I'm a passionate data enthusiast, currently pursuing Btech from - Indian Institu
 
 ## 👨‍💻 Let's connect!
 
-- Resume: [Resume](https://www.overleaf.com/project/65ae4e8ca8bfd4fd6b274592)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/vansh-angaria)
-- Email: (vanshangaria20@gmail.com)
+   [Resume](https://www.overleaf.com/project/65ae4e8ca8bfd4fd6b274592)
+   [LinkedIn Profile](https://www.linkedin.com/in/vansh-angaria)
+   [EMail_ID}(vanshangaria20@gmail.com)
 
 Happy coding! 🚀
