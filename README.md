@@ -1,22 +1,20 @@
-### 👋 Hello there! I'm Vansh Angaria
+# Hi there! 👋 I'm Vansh Angaria
 
-- 🤖 Machine Learning Engineer | 📊 Data Analyst
-- 🌐 Turning data into insights and models into solutions
-- 💡 Passionate about leveraging AI to solve real-world problems
-- 📈 Proficient in data analysis, statistical modeling, and machine learning
-- 🎓 Pursuing BTech in Computer Science Engineering from Indian Institute of Information Technology Kurnool
-- 💻 Currently exploring ML/DL
+I'm a passionate data enthusiast, currently pursuing Btech from - ** Indian Institute of Information Technology ** .
 
-### 💼 Technical Skills
+## 🌱 Skills
 
-- 🐍 Programming: Python | C++
-- 🤖 Machine Learning: Scikit-Learn | TensorFlow | PyTorch
-- 📊 Data Analysis: Pandas | NumPy | Matplotlib | Seaborn
-- 📉 Statistical Analysis: Hypothesis Testing | Regression Analysis
-- 🛠️ Tools: Jupyter Notebooks | Git | Docker
+- **SQL Databases:** PostgreSQL, MySQL, OracleSQL .
+- **Python Libraries:** Pandas, Numpy, Scikit-learn, Matplotlib, Plotly, Seaborn
+- **Data Visualization:** Tableau, Power BI .
+- **Other Skills:** Advance Excel (VLOOKUP, Pivot tables, etc.)
+- **Tools:** Jupyter Notebooks | Git | Docker .
+- **Programming:** Python | C++
 
-### 📫 Connect with Me
+## 👨‍💻 Let's connect!
 
-- 📧 Email: vanshangaria20@gmail.com
-- 📌 LinkedIn: https://www.linkedin.com/in/vansh-angaria
-- 🐦 Twitter:https://twitter.com/Angaria_Vansh
+- **Resume:** [Resume](https://www.overleaf.com/project/65ae4e8ca8bfd4fd6b274592)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/vansh-angaria)
+- **Email:** (vanshangaria20@gmail.com)
+
+Happy coding! 🚀
