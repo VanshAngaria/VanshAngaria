@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Vansh Angaria
+#👋 I'm Vansh Angaria
 
 I'm a passionate data enthusiast, currently pursuing Btech from - Indian Institute of Information Technology .
 
