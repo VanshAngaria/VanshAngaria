@@ -1,22 +1,44 @@
 # 👋 I'm Vansh Angaria
 
-I'm a passionate data enthusiast, currently pursuing Btech from - Indian Institute of Information Technology .
+I'm a passionate **Data Enthusiast**, **Software Engineer**, and **Web Developer**, currently pursuing a **B.Tech in Computer Science and Engineering** with a specialization in **Data Science** from **Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Kurnool**.
 
-## 🌱 Skills
+## 🌱 Skills & Expertise
 
-- `SQL Databases: PostgreSQL, MySQL, OracleSQL .`
-- `Python Libraries: Pandas, Numpy, Scikit-learn, Matplotlib, Plotly, Seaborn`
-- `Data Visualization: Tableau, Power BI .`
-- `Other Skills: Advance Excel (VLOOKUP, Pivot tables, etc.)`
-- `Tools: Jupyter Notebooks | Git | Docker .`
-- `Programming: Python | C++`
+### 💻 Programming
+- **Languages:** Python | Java | C++  
+- **Advanced Java:** Multithreading, Collections Framework, Stream API  
+- **Data Structures & Algorithms:** Linked Lists, Trees, Graphs  
 
-## 👨‍💻 Let's connect!
+### 🌐 Web Development
+- **Frontend:** HTML | CSS | React.js  
+- **Backend:** APIs and server-side logic  
+- **Full-Stack Development:** Building end-to-end responsive and interactive web applications.
 
-   - Resume : https://www.overleaf.com/project/65ae4e8ca8bfd4fd6b274592
-   
-   - LinkedIn Profile : https://www.linkedin.com/in/vansh-angaria
-   
-   - EMail_ID : vanshangaria20@gmail.com
+### 🛠 Tools & Frameworks
+- **Data Analysis:** Pandas, Numpy  
+- **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI  
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch  
+- **Big Data:** Hadoop, Spark  
+- **Version Control:** Git  
+- **Virtualization:** VirtualBox, Docker  
+- **Advanced Excel:** VLOOKUP, Pivot Tables, Macros  
 
-Happy coding! 🚀
+### 🗄 Databases
+- PostgreSQL, MySQL, OracleSQL, SQLite  
+
+### 🌐 Networking & Security
+- Socket Programming (TCP/UDP)  
+- Vulnerability Scanning Tools: Burp Suite, OWASP ZAP  
+- Fuzz Testing  
+
+---
+
+## 📜 Let's Connect!
+
+- **Resume:** [My Resume](https://www.overleaf.com/project/65ae4e8ca8bfd4fd6b274592)  
+- **LinkedIn:** [Vansh Angaria](https://www.linkedin.com/in/vansh-angaria)  
+- **Email:** vanshangaria20@gmail.com  
+
+---
+
+🌟 Happy coding and creating! 🚀
