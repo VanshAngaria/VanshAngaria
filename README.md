@@ -1,13 +1,13 @@
 # 👋 I'm Vansh Angaria
 
-I'm a passionate **Data Enthusiast**, **Software Engineer**, and **Web Developer**, currently pursuing a **B.Tech in Computer Science and Engineering** with a specialization in **Data Science** from **Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Kurnool**.
+I'm a passionate **Data Enthusiast**, **Software Engineer**, and **Web Developer**, currently pursuing a **B.Tech in Computer Science and Engineering**  from **Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Kurnool**.
 
 ## 🌱 Skills & Expertise
 
 ### 💻 Programming
 - **Languages:** Python | Java | C++  
-- **Advanced Java:** Multithreading, Collections Framework, Stream API  
-- **Data Structures & Algorithms:** Linked Lists, Trees, Graphs  
+- **Advanced Java:** Multithreading, Collections Framework, Servlets, Stream API 
+- **Data Structures & Algorithms:** Linked Lists, Trees, Graphs , Dynamic Programming
 
 ### 🌐 Web Development
 - **Frontend:** HTML | CSS | React.js  
@@ -24,20 +24,15 @@ I'm a passionate **Data Enthusiast**, **Software Engineer**, and **Web Developer
 - **Advanced Excel:** VLOOKUP, Pivot Tables, Macros  
 
 ### 🗄 Databases
-- PostgreSQL, MySQL, OracleSQL, SQLite  
+- PostgreSQL, MySQL, OracleSQL 
 
-### 🌐 Networking & Security
-- Socket Programming (TCP/UDP)  
-- Vulnerability Scanning Tools: Burp Suite, OWASP ZAP  
-- Fuzz Testing  
-
----
 
 ## 📜 Let's Connect!
 
 - **Resume:** [My Resume](https://www.overleaf.com/project/65ae4e8ca8bfd4fd6b274592)  
 - **LinkedIn:** [Vansh Angaria](https://www.linkedin.com/in/vansh-angaria)  
-- **Email:** vanshangaria20@gmail.com  
+- **Email:** vanshangaria20@gmail.com
+- **LinkedIn:** [LinkedIn](https://leetcode.com/u/angaria_vansh) 
 
 ---
 
