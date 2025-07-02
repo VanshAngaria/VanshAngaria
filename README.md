@@ -1,111 +1,105 @@
-<h1 align="center"> 👋 Hello, I'm Vansh Angaria! </h1>
 
-<p align="center">
-  🤖 Machine Learning Enthusiast | 📊 Data Analyst | 🌐 Big Data Engineer  
-</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vanshangaria">
-    <img src="https://img.shields.io/badge/LinkedIn-Vansh%20Angaria-blue?style=flat&logo=linkedin" />
+# Hey there! 👋 I'm Vansh Angaria 💻
+
+🎓 Final Year B.Tech CSE @ IIITDM Kurnool  
+🛡️ Cybersecurity Enthusiast | OCR & AI Project Builder  
+💻 Java Backend Developer | React Frontend Explorer  
+📚 Passionate about Learning, Solving Problems, and Real-World Projects
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VanshAngaria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VanshAngaria&layout=compact&theme=dracula&langs_count=6" height="150" />
+</div>
+
+---
+
+## 💼 Projects & Internships
+
+- 🔍 **Malware Analysis using Regex** — *CDAC Noida Internship (July–Aug 2024)*  
+- 📄 **OCR + AI-based Answer Evaluation System** — *Subjective + Objective Assessment App (Java Backend)*  
+- 🚀 **Lift Simulation System** — *Implemented using Strategy Design Pattern in Java*  
+- 📊 **Explainable Synthetic Data Generation in Finance** — *Final Year Research Project*
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 🚀 Languages
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /> Java  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> Python  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> JavaScript  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" /> C++  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" /> C  
+</div>
+
+### 🌐 Frontend
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /> React  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> HTML5  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /> CSS3  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" /> Bootstrap  
+</div>
+
+### 🔧 Backend & Frameworks
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" /> Spring Boot  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" /> Express.js  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /> Node.js  
+</div>
+
+### 🗃️ Databases
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /> MySQL  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" /> MongoDB  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /> PostgreSQL  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" /> Oracle  
+</div>
+
+### ⚙️ Tools & DevOps
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" /> Git  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" /> GitHub  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" /> Docker  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" /> Figma  
+</div>
+
+---
+
+## 🔗 Online Presence
+
+<div align="left">
+  <a href="https://leetcode.com/VanshAngaria/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://vanshangaria.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat&logo=google-chrome" />
+  <a href="https://github.com/VanshAngaria" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="mailto:vanshangaria20@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-ff69b4?style=flat&logo=gmail" />
+  <a href="https://www.linkedin.com/in/vansh-angaria/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
-</p>
+</div>
 
 ---
 
-## 🚀 About Me  
+## 📫 Contact Me
 
-- 🎓 **BTech in Computer Science Engineering** at **IIITDM Kurnool**  
-- 🔬 Passionate about **AI, Big Data, NLP, and Full Stack**  
-- 🏆 **Hackathon Enthusiast & Researcher**  
-- 🛠️ Building **Scalable Data Solutions , Web Sites & AI Models**  
-- 📈 Experienced in **Data Warehousing, Web Scraping, and Deep Learning**  
-- 🔍 Currently exploring **Generative AI **  
+- **Email:** vanshangaria20@gmail.com  
+- **LinkedIn:** [Vansh Angaria](https://www.linkedin.com/in/vansh-angaria/)
 
 ---
 
-## 🏋️‍♂️ Technical Skills  
+### 🚀 Fun Fact
 
-### **🚀 Programming**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-
-### **🤖 AI & ML**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-### **📊 Data Analysis & Big Data**  
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-![Spark](https://img.shields.io/badge/-Apache%20Spark-FFCA28?style=flat-square&logo=apachespark&logoColor=black)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-### **🛠️ Tools & Technologies**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+I love building smart apps that bridge **AI** with **Education and Security**. Whether it's reading Japanese anime subtitles or decoding malware, I'm always up for a tech challenge!
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshangaria&theme=radical&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshangaria&show_icons=true&theme=radical&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshangaria&layout=compact&theme=radical&hide_border=true" width="49%" />
-</p>
-
----
-
-## 🚀 Recent Projects  
-
-🔹 **[Contact Manager](https://github.com/VanshAngaria/Contact-Manager)** - Java, Spring, Spring Boot, HTML, CSS.  
-🔹 **[Elevator-System-Design](https://github.com/VanshAngaria/Elevator-System-Design)** - Java.  
-🔹 **[WhatsApp Chat Analyzer](https://github.com/vanshangaria/whatsapp-chat-analyzer)** - NLP-based analysis of chat conversations.  
-🔹 **[Decoding Adidas’s Sales Triumph](https://github.com/vanshangaria/adidas-sales-analysis)** - Sales data analysis using Tableau and ARIMA.  
-
-📌 **More projects:** [Check my repositories](https://github.com/vanshangaria?tab=repositories)!  
-
----
-
-## 🏆 Achievements  
-
-🏅 **Smart India Hackathon 2024 Participant** - Developed a security-based solution.  
-📄 **Researched Open Source Software Security** using fuzzing techniques.  
-🌐 **Developed AI-powered Web Solutions** for various domains.  
-
----
-
-## 📧 Connect with Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vanshangaria">
-    <img src="https://img.shields.io/badge/LinkedIn-Vansh%20Angaria-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://vanshangaria.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat&logo=google-chrome" />
-  </a>
-  <a href="mailto:vanshangaria20@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-ff69b4?style=flat&logo=gmail" />
-  </a>
-</p>
-
----
-
-## 💡 Fun Facts  
-
-🛠️ **Loves building AI-powered Web & Data Solutions**  
-📚 **Passionate about Open Source Contributions**  
-
-🌟 **If you like my work, give a star to my projects!**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VanshAngaria/VanshAngaria/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VanshAngaria/VanshAngaria/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/VanshAngaria/VanshAngaria/output/github-snake.svg" />
+</picture>
