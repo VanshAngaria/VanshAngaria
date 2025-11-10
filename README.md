@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Vansh Angaria  
 
 🎓 **Final Year B.Tech CSE @ IIITDM Kurnool**  
-🧠 **AI | Cybersecurity | Backend Engineering | Research & Innovation**  
+🧠 **AI | Data Analytics | Backend Engineering | Research & Innovation**  
 💻 Passionate about building intelligent, secure, and scalable applications.
 
 ---
